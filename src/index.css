@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'New Tegomin';
+	src: local('New Tegomin'),
+		url('./fonts/NewTegomin-Regular.ttf') format('truetype');
+}
+
+body {
+	margin: 0;
+	font-family: 'New Tegomin', sans-serif;
+}
+a,
+a:hover,
+a:visited,
+a:active {
+	color: rgb(58, 53, 53);
+}

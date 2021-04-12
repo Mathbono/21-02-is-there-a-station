@@ -1,0 +1,17 @@
+#app {
+	min-height: 100vh;
+	font-size: calc(10px + 2vmin);
+	font-weight: bold;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+ul {
+	list-style-type: '— ';
+}
+footer {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
